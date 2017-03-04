@@ -1,0 +1,27 @@
+@font-face{
+	font-family: "Emblema one";
+	src: url("../EmblemaOne-Regular.ttf");
+		 url("../EmblemaOne-Regular.woff");
+}
+body{
+	font-family: "Emblema one", sans-serif;
+	font-size:small;
+	font-weight:bold;
+	color:red;
+}
+h1{
+	font-size:170%;
+}
+p{
+	font-size:130%;
+}
+em{
+	color:blue;
+}
+p.yellow{
+	color:yellow;
+	font-size:200%;
+}
+p.black{
+	color:black;
+}
